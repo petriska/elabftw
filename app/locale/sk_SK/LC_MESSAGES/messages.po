@@ -1,0 +1,2007 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: elabftw\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:184
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:146
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:171
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:396
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:415
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:434
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:509
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:601
+msgid "Yes"
+msgstr "Áno"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:190
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:152
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:177
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:402
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:421
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:440
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:515
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:607
+msgid "No"
+msgstr "Nie"
+
+#: app/controllers/IdpsController.php:38 app/controllers/IdpsController.php:56
+#: app/controllers/IdpsController.php:65
+#: app/controllers/SysconfigController.php:108
+#: app/controllers/SysconfigController.php:163
+#: app/controllers/AdminController.php:56
+#: app/controllers/AdminController.php:69
+#: app/controllers/UsersController.php:73
+msgid "Configuration updated successfully."
+msgstr "Konfigurácia bola úspešne aktualizovaná."
+
+#: app/models/Users.php:765
+msgid "Wrong password!"
+msgstr "Zlé heslo!"
+
+#: app/models/Users.php:772
+msgid "No user with this email or user not in your team"
+msgstr "Žiaden používateľ s týmto e-mailom alebo používateľ nie je vo vašom tíme"
+
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:86
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:117
+#: app/models/Users.php:604
+msgid "The passwords do not match!"
+msgstr "Heslá sa nezhodujú!"
+
+#: app/controllers/LoginController.php:50
+#: app/controllers/RegisterController.php:39
+msgid "A mandatory field is missing!"
+msgstr "Chýbajú povinné polia!"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:76
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:91
+msgid "Password"
+msgstr "heslo"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:59
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:101
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:495
+msgid "Firstname"
+msgstr "Krstné meno"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:75
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:109
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:506
+msgid "Lastname"
+msgstr "Priezvisko"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:91
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:68
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:84
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:459
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:137
+msgid "Email"
+msgstr "Email"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:88
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:120
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:275
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:280
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:37
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:56
+#: app/views/TeamsView.php:48 experiments.php:23
+msgid "Experiment"
+msgid_plural "Experiments"
+msgstr[0] "experiment"
+msgstr[1] "experimentov\n"
+""
+msgstr[2] "experimentov"
+msgstr[3] "experimenty"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:97
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:44
+#: database.php:22
+msgid "Database"
+msgstr "Databáza"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:110
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:55
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:92
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:387
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:129
+#: team.php:21
+msgid "Team"
+msgstr "tím"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:132
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:129
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:197
+msgid "Date"
+msgstr "dátum"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:262
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:135
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:222
+msgid "Title"
+msgstr "nadpis"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:41
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:35
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:281
+msgid "Infos"
+msgstr "informácie"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:151
+msgid "Visibility"
+msgstr "viditeľnosť"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:192
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:104
+msgid "Status"
+msgid_plural "Status"
+msgstr[0] "Stav"
+msgstr[1] "Stavov"
+msgstr[2] "Stavov"
+msgstr[3] "Stav"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:91
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:95
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:217
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:803
+msgid "Edit"
+msgstr "editovať"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:220
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:457
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:483
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:475
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:557
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:624
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:674
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:746
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:839
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:432
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:629
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:745
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:174
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:188
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:240
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:451
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:575
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:643
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:814
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:981
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:1022
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:1090
+msgid "Save"
+msgstr "Uložiť"
+
+#: app/controllers/DatabaseController.php:48
+#: app/controllers/SysconfigController.php:49
+#: app/controllers/SysconfigController.php:65
+#: app/controllers/SysconfigController.php:73
+#: app/controllers/SysconfigController.php:138
+#: app/controllers/SysconfigController.php:148
+#: app/controllers/StatusController.php:43
+#: app/controllers/StatusController.php:57
+#: app/controllers/EntityController.php:109
+#: app/controllers/EntityController.php:145
+#: app/controllers/EntityController.php:169
+#: app/controllers/EntityController.php:222
+#: app/controllers/EntityController.php:244
+#: app/controllers/EntityController.php:266
+#: app/controllers/ExperimentsController.php:56
+#: app/controllers/ExperimentsController.php:74
+#: app/controllers/ExperimentsController.php:92
+#: app/controllers/ExperimentsController.php:128
+#: app/controllers/ItemsTypesController.php:41
+#: app/controllers/ItemsTypesController.php:55
+#: app/controllers/AdminController.php:42
+#: app/controllers/AdminController.php:79 app/controllers/UcpController.php:60
+#: app/controllers/UcpController.php:120
+#: app/controllers/CommentsController.php:39
+#: app/controllers/CommentsController.php:47
+#: app/controllers/SchedulerController.php:38
+#: app/controllers/SchedulerController.php:57
+#: app/controllers/SchedulerController.php:68
+#: app/controllers/UsersController.php:36
+#: app/controllers/UsersController.php:89
+#: app/controllers/TodolistController.php:54
+#: app/controllers/TodolistController.php:65
+msgid "Saved"
+msgstr "Uložené"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:459
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:455
+msgid "Saving"
+msgstr "Ukladám"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:309
+msgid "Save and go back"
+msgstr "Uložiť a vrátiť sa späť"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:198
+msgid "Action"
+msgstr "Akcia"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:202
+msgid "Shortcut"
+msgstr "Skratka"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:354
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:207
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:227
+msgid "Submit"
+msgstr "Odoslať"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:237
+msgid "TODO list"
+msgstr "Zoznam úloh"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:133
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:545
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:583
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:657
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:699
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:725
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:997
+msgid "Name"
+msgstr "Meno"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:137
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:524
+msgid "Phone"
+msgstr "telefón"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:141
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:534
+msgid "Mobile"
+msgstr "Mobil"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:145
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:556
+msgid "Website"
+msgstr "webové stránky"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:149
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:546
+msgid "Skype"
+msgstr "Skype"
+
+#: app/classes/Email.php:199
+msgid "[eLabFTW] New user registered"
+msgstr "[eLabFTW] Registrovaný nový používateľ"
+
+#: app/controllers/ResetPasswordController.php:78 app/classes/Email.php:251
+msgid "There was a problem sending the email! Error was logged."
+msgstr "Pri odosielaní e-mailu sa vyskytol problém! Chyba bola zaznamenaná."
+
+#: app/controllers/ResetPasswordController.php:81
+msgid "Email sent. Check your INBOX."
+msgstr "Email odoslaný. Skontroluj si poštu."
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:46
+msgid "There are users waiting for validation of their account:"
+msgstr "Používatelia čakajú na potvrdenie svojho účtu:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:96
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:121
+msgid "Users"
+msgstr "Užívatelia"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:108
+msgid "Types of items"
+msgstr "Typy položiek"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:112
+msgid "Experiments template"
+msgstr "Šablóna experimentov"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:139
+msgid "Users can delete experiments:"
+msgstr "Používatelia môžu odstrániť experimenty:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:185
+msgid "Name of the link in the top menu:"
+msgstr "Názov odkazu v hornej ponuke:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:196
+msgid "Address where this link should point:"
+msgstr "Adresa na ktorú má odkaz odkazovať:"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:174
+msgid "Has an active account?"
+msgstr "Má aktívny účet?"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:303
+msgid "DANGER ZONE"
+msgstr "NEBEZPEČNÁ ZÓNA"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:307
+msgid "Delete an account"
+msgstr "Odstrániť účet"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:323
+msgid "Type your password:"
+msgstr "Zadajte svoje heslo:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:329
+msgid "Delete this user!"
+msgstr "Odstrániť tohto používateľa!"
+
+#: app/models/Status.php:224
+msgid "Remove all experiments with this status before deleting this status."
+msgstr "Pred odstránením tohto stavu odstráňte všetky experimenty s týmto stavom."
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:616
+msgid "Default status"
+msgstr "Predvolený stav"
+
+#: app/models/ItemsTypes.php:194
+msgid "Remove all database items with this type before deleting this type."
+msgstr "Vymažte všetky položky databázy tohto typu, pred odstránením tohto typu."
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:825
+msgid "This is the default text when someone creates an experiment."
+msgstr "Toto je predvolený text novo vytvoreného experimentu"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:860
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:923
+msgid "You should make a backup of your database before importing thousands of items!"
+msgstr "Pred importovaním tisícok položiek by ste mali zálohovať databázu!"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:866
+msgid "1. Select a type of item to import to:"
+msgstr "1. Vyberte typ položky, ktorú chcete importovať:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:893
+msgid "2. Select a CSV file to import:"
+msgstr "2. Vyberte súbor CSV, ktorý chcete importovať:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:116
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:900
+msgid "Import CSV"
+msgstr "Import CSV"
+
+#: app/models/Users.php:401
+msgid "Only a sysadmin can put someone sysadmin."
+msgstr "Len sysadmin môže niekoho spraviť sysadminom."
+
+#: app/controllers/UsersController.php:114
+msgid "Everything was purged successfully."
+msgstr "Všetko bolo úspešne očistené."
+
+#: change-pass.php:23
+msgid "Reset password"
+msgstr "Obnoviť heslo"
+
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:72
+msgid "Type it again"
+msgstr "Napíš to znova"
+
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:80
+msgid "Complexity"
+msgstr "Zložitosť"
+
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:121
+msgid "Save new password"
+msgstr "Uložiť nové heslo"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:136
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:96
+msgid "Weak password"
+msgstr "Slabé heslo"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:140
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:100
+msgid "Average password"
+msgstr "Priemerné heslo"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:144
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:104
+msgid "Good password"
+msgstr "Dobré heslo"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:148
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:108
+msgid "Strong password"
+msgstr "Silné heslo"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:152
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:112
+msgid "No way that is your real password!"
+msgstr "Toto nie je vaše skutočné heslo!"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:536
+#: app/classes/ImportCsv.php:75 app/classes/Tools.php:90
+#: app/models/Experiments.php:70 app/models/Database.php:56
+msgid "Untitled"
+msgstr "Bez mena"
+
+#: app/controllers/ExperimentsController.php:199
+msgid "You don't have the rights to delete this experiment."
+msgstr "Nemáte právo odstrániť tento experiment."
+
+#: app/controllers/EntityController.php:97
+msgid "You don't have the rights to lock/unlock this."
+msgstr "Nemáte práva na uzamknutie/odomknutie."
+
+#: app/models/Experiments.php:345
+msgid "This experiment was locked by"
+msgstr "Tento experiment bol uzamknutý "
+
+#: app/controllers/LoginController.php:72
+msgid "Login failed. Either you mistyped your password or your account isn't activated yet."
+msgstr "Prihlásenie zlyhalo. Buď ste nesprávne zadali svoje heslo alebo Váš účet ešte nie je aktivovaný."
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:93
+#: login.php:22
+msgid "Login"
+msgstr "Prihlásiť sa"
+
+#: login.php:56
+msgid "You cannot login now because of too many failed login attempts."
+msgstr "Teraz sa nemôžete prihlásiť z dôvodu príliš veľa neúspešných pokusov o prihlásenie."
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:62
+msgid "Sign in to your account"
+msgstr "Prihláste sa do svojho účtu"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:100
+msgid "Don't have an account? %sRegister%s now!<br>Lost your password? %sReset%s it!"
+msgstr "Nemáte účet? %sRegistrácia %steraz! <br> Zabudli ste heslo? %s Obnoviť %s !"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:109
+msgid "Enter your email address"
+msgstr "Vložte svoju e-mailovú adresu"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:113
+msgid "Send new password"
+msgstr "Odošlite nové heslo"
+
+#: profile.php:21
+msgid "Profile"
+msgstr "Profil"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:49
+msgid "experiments done since"
+msgstr "experimenty dokončených od"
+
+#: app/models/Users.php:99 app/models/Users.php:615
+msgid "Someone is already using that email address!"
+msgstr "Niekto už túto e-mailovú adresu používa!"
+
+#: app/classes/Email.php:214
+msgid "Could not send email to inform admin. Error was logged. Contact an admin directly to validate your account."
+msgstr "Nepodarilo sa odoslať e-mail na informovanie administrátora. Chyba bola zaznamenaná. Obráťte sa priamo na administrátora a overte svoj účet."
+
+#: app/controllers/RegisterController.php:56
+msgid "Registration successful :)<br>Welcome to eLabFTW o/"
+msgstr "Registrácia úspešná :) <br> Vitajte na eLabFTW o /"
+
+#: register.php:27
+msgid "Please %slogout%s before you register another account."
+msgstr "Prosím %sodhláste sa%s predtým než si založíte ďalší účet."
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:35
+msgid "go back to login page"
+msgstr "vráťte sa na prihlasovaciu stránku"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:43
+msgid "Create your account"
+msgstr "Vytvor si účet"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:170
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:60
+msgid "------ Select a team ------"
+msgstr "------ Zvoľte tím ------"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:117
+msgid "Password complexity"
+msgstr "Zložitosť hesla"
+
+#: /tmp/elabftw-twig-cache/e4/e4fe5c33152cbe8ccee8c4c90293ef754d310c90adaad5ca5a26757a869ce136.php:126
+msgid "create"
+msgstr "vytvoriť"
+
+#: app/controllers/ResetPasswordController.php:73
+msgid "Hi. Someone (probably you) with the IP address: %s and user agent %s requested a new password on eLabFTW. Please follow this link to reset your password : %s"
+msgstr "Ahoj. Niekto (pravdepodobne vy) s adresou IP: %s a používateľský agent %s požiadali o nové heslo na eLabFTW. Ak chcete obnoviť heslo, postupujte podľa tohto odkazu: %s"
+
+#: app/controllers/ResetPasswordController.php:38
+msgid "Email not found in database!"
+msgstr "E-mail sa nenašiel v databáze!"
+
+#: revisions.php:21
+msgid "Revisions"
+msgstr "revízií"
+
+#: /tmp/elabftw-twig-cache/d4/d4f60ab74b9d44cb2d5207eb927c7fe04c597921a8a2fe8893776446597e2781.php:48
+msgid "Saved on:"
+msgstr "Uložené dňa:"
+
+#: /tmp/elabftw-twig-cache/d4/d4f60ab74b9d44cb2d5207eb927c7fe04c597921a8a2fe8893776446597e2781.php:60
+msgid "Restore"
+msgstr "obnoviť"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:123
+#: search.php:19
+msgid "Search"
+msgstr "Vyhľadávanie"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:170
+msgid "Search only in experiments owned by:"
+msgstr "Hľadať iba v experimentoch vo vlastníctve:"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:176
+msgid "Yourself"
+msgstr "sám"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:32
+msgid "Search in"
+msgstr "Vyhľadávanie v"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:221
+msgid "Where date is between"
+msgstr "Kde je dátum medzi"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:229
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:317
+msgid "and"
+msgstr "a"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:246
+msgid "And title contains"
+msgstr "A názov obsahuje"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:300
+msgid "And body contains"
+msgstr "A telo obsahuje"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:259
+msgid "And status is"
+msgstr "A stav je"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:264
+msgid "select status"
+msgstr "vyberte stav"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:333
+msgid "And rating is"
+msgstr "A hodnotenie je"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:338
+msgid "select number of stars"
+msgstr "vyberte počet hviezdičiek"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:342
+msgid "Unrated"
+msgstr "nehodnotené"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:376
+msgid "Launch search"
+msgstr "Spustenie vyhľadávania"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:276
+msgid "Sorry. I couldn't find anything :("
+msgstr "Prepáč. Nenašiel som nič :("
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:125
+msgid "Server"
+msgstr "server"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:129
+msgid "Timestamp"
+msgstr "Časová značka"
+
+#: app/views/ExperimentsView.php:74
+msgid "on"
+msgstr "na"
+
+#: app/views/ExperimentsView.php:75
+msgid "at"
+msgstr "na"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:133
+msgid "Security"
+msgstr "Zabezpečenie"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:274
+#: app/views/TeamsView.php:47
+msgid "Members"
+msgstr "Členovia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:288
+#: app/views/TeamsView.php:49
+msgid "Items"
+msgstr "predmety"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:292
+msgid "Created"
+msgstr "Vytvorené"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:502
+msgid "The teams can use the credentials below to timestamp:"
+msgstr "Tímy môžu použiť nižšie uvedené poverenia na časovú pečiatku:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:242
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:552
+msgid "Login for external timestamping service:"
+msgstr "Prihlásenie pre službu externého časového označenia:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:257
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:560
+msgid "Password for external timestamping service:"
+msgstr "Heslo pre službu externého časovania:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:594
+msgid "Users need validation by admin after registration:"
+msgstr "Používatelia potrebujú validáciu adminom po registrácii:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:612
+msgid "Set to yes for added security."
+msgstr "Ak chcete zvýšiť bezpečnosť, nastavte áno."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:616
+msgid "Number of allowed login attempts:"
+msgstr "Počet povolených pokusov o prihlásenie:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:624
+msgid "3 might be too few. See for yourself :)"
+msgstr "3 môže byť príliš málo. Pozrite sa sami :)"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:637
+msgid "To identify an user we use an md5 of user agent + IP. Because doing it only based on IP address would surely cause problems."
+msgstr "Na identifikáciu používateľa používame md5 užívateľského agenta + IP. Pretože robiť to len na základe IP adresy by určite spôsobilo problémy."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:728
+msgid "Address of the SMTP server:"
+msgstr "Adresa SMTP servera:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:755
+msgid "Probably TLS"
+msgstr "Pravdepodobne TLS"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:759
+msgid "SMTP Port:"
+msgstr "SMTP Port:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:767
+msgid "Default is 587."
+msgstr "Predvolená hodnota je 587."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:771
+msgid "SMTP username:"
+msgstr "SMTP používateľské meno:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:779
+msgid "SMTP password"
+msgstr "Heslo SMTP"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:204
+msgid "You can use a TODOlist by pressing 't'."
+msgstr "Zoznam TODO môžete použiť stlačením tlačidla \"t\"."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:222
+msgid "The admin of a team can edit the status and the types of items available (%sAdmin Panel%s)."
+msgstr "Správca tímu môže upraviť stav a typy dostupných položiek ( %s Admin Panel %s )."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:234
+msgid "Custom shortcuts are available (%sControl Panel%s)."
+msgstr "K dispozícii sú vlastné skratky ( %s Ovládací panel %s )."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:240
+msgid "You can duplicate experiments in one click."
+msgstr "Experimenty môžete duplikovať jedným kliknutím."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:246
+msgid "Click a tag to list all items with this tag."
+msgstr "Kliknutím na značku zobrazíte všetky položky s touto značkou."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:252
+msgid "Once timestamped an experiment cannot be unlocked or modified. Only comments can be added."
+msgstr "Po ukončení časového označenia nie je možné experiment odblokovať alebo upraviť. Je možné pridať iba poznámky."
+
+#: ucp.php:21
+msgid "User Control Panel"
+msgstr "Ovládací panel používateľa"
+
+#: app/controllers/UcpController.php:44
+msgid "Profile updated."
+msgstr "Profil aktualizovaný."
+
+#: app/controllers/UcpController.php:31
+msgid "Preferences updated."
+msgstr "Preferencie aktualizované."
+
+#: app/controllers/UcpController.php:77
+msgid "You must specify a name for the template!"
+msgstr "Musíte zadať názov šablóny!"
+
+#: app/controllers/UcpController.php:81
+msgid "The template name must be 3 characters long."
+msgstr "Názov šablóny musí mať 3 znaky."
+
+#: app/controllers/UcpController.php:91
+msgid "Experiment template successfully added."
+msgstr "Šablóna experimentu bola úspešne pridaná."
+
+#: app/controllers/UcpController.php:105
+msgid "Template successfully edited."
+msgstr "Šablóna bola úspešne upravená."
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:41
+msgid "Account"
+msgstr "účet"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:37
+msgid "Preferences"
+msgstr "Preferencie"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:45
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:45
+msgid "Templates"
+msgstr "Šablóny"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:450
+msgid "Modify your personal informations"
+msgstr "Zmeňte svoje osobné informácie"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:488
+msgid "Modify your identity"
+msgstr "Upravte svoju identitu"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:469
+msgid "Modify your password"
+msgstr "Upravte svoje heslo"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:473
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:63
+msgid "New password"
+msgstr "Nové heslo"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:478
+msgid "Confirm new password"
+msgstr "Potvrďte nové heslo"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:518
+msgid "Modify your contact information"
+msgstr "Upravte svoje kontaktné informácie"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:568
+msgid "Update profile"
+msgstr "Aktualizovať profil"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:100
+msgid "Items per page:"
+msgstr "Položky na stránku:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:586
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:46
+msgid "Create new"
+msgstr "Vytvor nový"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:58
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:348
+msgid "Language"
+msgstr "Jazyk"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:395
+msgid "Last modified by"
+msgstr "Naposledy upravené"
+
+#: app/views/ExperimentsView.php:74
+msgid "Experiment was timestamped by"
+msgstr "Experiment bol označený časovou značkou"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:380
+msgid "Unique eLabID:"
+msgstr "Jedinečný eLabID:"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:418
+msgid "Comments"
+msgstr "Komentáre"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:476
+msgid "Add a comment"
+msgstr "Pridať komentár"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:440
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:514
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:48
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:86
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:532
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:495
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:679
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:769
+#: app/views/UploadsView.php:71
+msgid "Delete this?"
+msgstr "Odstrániť toto?"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:137
+msgid "Tag cloud"
+msgstr "Značka cloud"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:93
+msgid "Statistics"
+msgstr "Štatistiky"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:87
+msgid "No statistics available yet."
+msgstr "Zatiaľ nie sú k dispozícii žiadne štatistiky."
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:150
+msgid "Filter status"
+msgstr "Stav filtra"
+
+#: database.php:59 experiments.php:69
+msgid "<strong>This item is locked.</strong> You cannot edit it."
+msgstr "<strong> Táto položka je uzamknutá. </ strong> Nemôžete ju upraviť."
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:260
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:54
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:647
+msgid "Tags"
+msgstr "Štítky"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:110
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:703
+msgid "Add a tag"
+msgstr "Pridajte štítok"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:135
+msgid "Only me"
+msgstr "Iba ja"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:385
+msgid "Linked items"
+msgstr "Prepojené položky"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:428
+msgid "Add a link"
+msgstr "Pridať odkaz"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:432
+msgid "from the database"
+msgstr "z databázy"
+
+#: app/models/Revisions.php:86
+msgid "Show history"
+msgstr "Zobraziť históriu"
+
+#: app/models/Revisions.php:84
+msgid "revision available."
+msgid_plural "revisions available."
+msgstr[0] "revízii k dispozícii."
+msgstr[1] "revízia k dispozícii."
+msgstr[2] "revízie k dispozícii."
+msgstr[3] "revízii k dispozícii"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:169
+msgid "Howdy,"
+msgstr "Nazdar,"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:177
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:179
+msgid "Settings"
+msgstr "Nastavenie"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:187
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:189
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:269
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:271
+msgid "Logout"
+msgstr "Odhlásiť sa"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:36
+msgid "Sysadmin panel"
+msgstr "Panel Sysadmin"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:47
+#: admin.php:21
+msgid "Admin panel"
+msgstr "Panel správcov"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:70
+msgid "Powered by"
+msgstr "Založené na technológii"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:75
+msgid "Page generated in"
+msgstr "Stránka generovaná v"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:210
+msgid "You can have experiments templates (%sControl Panel%s)."
+msgstr "Môžete mať šablóny experimentov ( %s Ovládací panel %s )."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:228
+msgid "If you press Ctrl Shift D in the editor, the date will appear under the cursor."
+msgstr "Ak v editore stlačíte kláves Ctrl Shift D, pod kurzor sa objaví dátum."
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:56
+msgid "Go to user control panel"
+msgstr "Prejdite na ovládací panel používateľa"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:117
+#: app/views/TeamsView.php:43
+msgid "Teams"
+msgstr "Timy"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:214
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:525
+msgid "URL for external timestamping service:"
+msgstr "Adresa URL pre externú službu časovania:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:229
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:539
+msgid "Chain of certificates of the external timestamping service:"
+msgstr "Reťaz certifikátov služby externého časovania:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:250
+msgid "This should be the login associated with your timestamping service provider"
+msgstr "Toto by malo byť prihlasovacie meno spojené s poskytovateľom služieb časovej značky"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:279
+msgid "Your timestamping service provider password"
+msgstr "Heslo poskytovateľa služby časového označenia"
+
+#: app/controllers/RevisionsController.php:39 app/classes/EntityTrait.php:39
+#: app/models/Users.php:382 app/models/Users.php:396
+msgid "The id parameter is not valid!"
+msgstr "Parameter id nie je platný!"
+
+#: app/models/Experiments.php:353
+msgid "You cannot unlock or edit in any way a timestamped experiment."
+msgstr "Nemôžete akýmkoľvek spôsobom odomknúť ani upraviť experiment s časovým označením."
+
+#: app/controllers/LoginController.php:45
+msgid "Your session expired. Please retry."
+msgstr "Vaša relácia vypršala. Skúste to znova."
+
+#: app/controllers/RegisterController.php:54
+msgid "Registration successful :)<br>Your account must now be validated by an admin.<br>You will receive an email when it is done."
+msgstr "Úspešná registrácia :) <br> Váš účet musí teraz overiť administrátor. <br> Po prijatí e-mailu dostanete e-mail."
+
+#: /tmp/elabftw-twig-cache/89/897ee44ddb1c6b69d1e08b706d24e51e23d49be35610bf5d141af1eaf88dfe5a.php:31
+msgid "Attached file"
+msgid_plural "Attached files"
+msgstr[0] "Priložených súborov"
+msgstr[1] "Priložený súbor"
+msgstr[2] "Priložené súbory"
+msgstr[3] "Priložených súborov"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:445
+msgid "Attach a file"
+msgstr "Priložiť súbor"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:512
+msgid "Drop files here to upload"
+msgstr "Tu vložte súbory, ktoré chcete priložiť"
+
+#: register.php:21
+msgid "Register"
+msgstr "Zaregistruj sa"
+
+#: app/models/Revisions.php:155
+msgid "You cannot restore a revision of a locked item!"
+msgstr "Nemôžete obnoviť revíziu uzamknutej položky!"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:141
+msgid "Logs"
+msgstr "Logy"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:520
+msgid "You can control if the teams can use the global timestamping account. If set to <em>no</em> the team admin must add login infos in the admin panel."
+msgstr "Môžete kontrolovať, či tímy môžu používať globálny účet časového označenia. Ak je nastavený <em> nie </ em>, administrátor tímu musí pridať prihlasovacie informácie do administrátorského panelu."
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:490
+msgid "Molecule drawer"
+msgstr "Zásuvka na molekulu"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:454
+msgid "Enter your password to edit infos."
+msgstr "Zadajte svoje heslo na úpravu informácií."
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:84
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:97
+msgid "With the tag"
+msgstr "S tagom"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:222
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:533
+msgid "This should be the URL used for %sRFC 3161%s-compliant timestamping requests."
+msgstr "Mala by to byť adresa URL použitá pre žiadosti o časové označenie %s RFC 3161 %s ."
+
+#: app/views/ExperimentsView.php:79
+msgid "Download timestamped pdf"
+msgstr "Stiahnite si časovo opečiatkované pdf"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:919
+msgid "This page will allow you to import a .elabftw.zip archive."
+msgstr "Táto stránka vám umožní importovať archív .elabftw.zip."
+
+#: app/controllers/ImportController.php:33
+msgid "item imported successfully."
+msgid_plural "items imported successfully."
+msgstr[0] "položiek úspešne importovaných."
+msgstr[1] "položka úspešne importovaná."
+msgstr[2] "položky úspešne importované."
+msgstr[3] "položiek úspešne importovaných."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:53
+msgid "Installed version:"
+msgstr "Inštalovaná verzia:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:317
+msgid "Miscellaneous"
+msgstr "Rôzne"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:120
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:982
+msgid "Import ZIP"
+msgstr "Import ZIP"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:79
+msgid "seconds"
+msgstr "sekúnd"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:157
+msgid "An admin account will always be able to delete experiments."
+msgstr "Účet administrátora bude vždy schopný odstrániť experimenty."
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:198
+msgid "There is a manual available %shere%s."
+msgstr "K dispozícii je manuálne dostupné %s tu %s ."
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:185
+msgid "Order by"
+msgstr "Zoradiť podľa"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:230
+msgid "Sort"
+msgstr "Triediť"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:252
+msgid "Reset"
+msgstr "Reset"
+
+#: /tmp/elabftw-twig-cache/55/55a594bd47c405a354cfa2561d2bb4c0b012fd36a7a7af60445d003987800cac.php:34
+msgid "Your file is ready:"
+msgstr "Váš súbor je pripravený."
+
+#: app/views/ExperimentsView.php:80
+msgid "Download token"
+msgstr "Stiahnutie tokenu"
+
+#: app/classes/TrustedTimestamps.php:123
+msgid "Please configure Timestamping in the admin panel."
+msgstr "Prosím, nakonfigurujte Časové označenie v správcovskom paneli."
+
+#: app/classes/MakeZip.php:235
+msgid "Error making the zip archive!"
+msgstr "Chyba pri vytváraní zip archívu!"
+
+#: app/classes/MakeZip.php:62
+msgid "You are missing the ZipArchive class in php. Uncomment the line extension=zip.so in php.ini file."
+msgstr "Chýba vám trieda ZipArchive v php. Rozbaľte príponu linky = zip.so v súbore php.ini."
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:87
+msgid "Remember me"
+msgstr "Zapamätať si ma"
+
+#: app/classes/AbstractImport.php:80
+msgid "This doesn't look like the right kind of file. Import aborted."
+msgstr "Toto nevyzerá ako správny druh súboru. Import bol prerušený."
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:183
+msgid "All the team"
+msgstr "Celý tím"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:311
+msgid "Space means"
+msgstr "Priestor znamená"
+
+#: app/controllers/EntityController.php:322
+#: app/controllers/TodolistController.php:73
+#: app/controllers/TodolistController.php:81
+msgid "Item deleted successfully"
+msgstr "Položka bola úspešne odstránená"
+
+#: app/controllers/SysconfigController.php:41
+msgid "User promoted"
+msgstr "Používateľ bol povýšený"
+
+#: app/controllers/SysconfigController.php:82
+#: app/controllers/SysconfigController.php:91
+msgid "Email sent"
+msgstr "Email odoslaný"
+
+#: app/controllers/SysconfigController.php:99
+msgid "Logs cleared"
+msgstr "Záznamy boli odstránené"
+
+#: app/controllers/StatusController.php:66
+msgid "Status deleted successfully"
+msgstr "Stav bol úspešne odstránený"
+
+#: app/controllers/EntityController.php:210
+msgid "Comment is too short"
+msgstr "Komentár je príliš krátky"
+
+#: app/controllers/EntityController.php:215
+#: app/controllers/TodolistController.php:48
+msgid "The id parameter is invalid"
+msgstr "Parameter id je neplatný"
+
+#: app/controllers/EntityController.php:300
+msgid "File deleted successfully"
+msgstr "Súbor bol úspešne odstránený"
+
+#: app/controllers/ExperimentsController.php:146
+msgid "Link deleted successfully"
+msgstr "Odkaz bol úspešne odstránený"
+
+#: app/controllers/ExperimentsController.php:205
+msgid "Experiment successfully deleted"
+msgstr "Experiment bol úspešne odstránený"
+
+#: app/controllers/ItemsTypesController.php:64
+msgid "Item type deleted successfully"
+msgstr "Typ položky bol úspešne odstránený"
+
+#: app/controllers/ResetPasswordController.php:99 change-pass.php:38
+msgid "Invalid link. Reset links are only valid for one hour."
+msgstr "Neplatný odkaz. Odkazy na obnovenie sú platné iba jednu hodinu."
+
+#: app/controllers/ResetPasswordController.php:108
+msgid "New password inserted. You can now login."
+msgstr "Nové heslo bolo vložené. Teraz sa môžete prihlásiť."
+
+#: app/controllers/CommentsController.php:55
+msgid "Comment successfully deleted"
+msgstr "Komentár bol úspešne odstránený"
+
+#: app/controllers/SchedulerController.php:79
+msgid "Event deleted successfully"
+msgstr "Udalosť bola úspešne odstránená"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:635
+msgid "Show all"
+msgstr "Zobraziť všetko"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:173
+msgid "Lock/Unlock item"
+msgstr "Zámok / Odomknúť položku"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:216
+msgid "Timestamp this experiment?"
+msgstr "Časový rozpis tohto experimentu?"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:222
+msgid "Once timestamped an experiment cannot be edited anymore! Are you sure you want to do this?"
+msgstr "Akonáhle je časový záznam experimentu už nemožno upraviť! Naozaj chcete to urobiť?"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:824
+msgid "Send a test email"
+msgstr "Odošli testovací email"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:322
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:829
+msgid "Send"
+msgstr "odoslať"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:868
+msgid "Nothing to display"
+msgstr "Nič, čo sa zobrazí"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:87
+msgid "No templates found"
+msgstr "Žiadne šablóny neboli nájdené"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:150
+msgid "Filter by type"
+msgstr "Filtrovať podľa typu"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:178
+msgid "Filter"
+msgstr "filter"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:198
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:123
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:191
+msgid "Category"
+msgstr "kategórie"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:206
+msgid "Rating"
+msgstr "Hodnotenie"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:167
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:236
+msgid "DESC"
+msgstr "Nadol"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:161
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:242
+msgid "ASC"
+msgstr "Nahor"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:247
+msgid "Order"
+msgstr "Zákazka:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:537
+msgid "Add a New Status"
+msgstr "Pridať nový stav"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:549
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:593
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:661
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:712
+msgid "Color"
+msgstr "Farba"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:567
+msgid "Edit an Existing Status"
+msgstr "Upraviť existujúci stav"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:631
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:754
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:254
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:401
+msgid "Delete"
+msgstr "Vymazať"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:651
+msgid "Add a new type of item"
+msgstr "Pridajte nový typ položky"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:665
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:730
+msgid "Bookable"
+msgstr "rezervovať"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:667
+msgid "in the %sscheduler%s"
+msgstr "v %s plánovači %s"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:682
+msgid "Database Items Types"
+msgstr "Typy položiek databázy"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:738
+msgid "Edit the template"
+msgstr "Upravte šablónu"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:182
+msgid "Add a New Team"
+msgstr "Pridať nový tím"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:168
+msgid "Promote Someone to Sysadmin"
+msgstr "Propagujte niekoho na Sysadmin"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:196
+msgid "Edit Existing Teams"
+msgstr "Upraviť existujúce tímy"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:308
+msgid "Send a Mass Email"
+msgstr "Odoslať masový e-mail"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:312
+msgid "Email Subject"
+msgstr "Predmet emailu"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:317
+msgid "Email Body"
+msgstr "Telo e-mailu"
+
+#: app/models/Users.php:597
+msgid "Please input your current password!"
+msgstr "Zadajte svoje aktuálne heslo!"
+
+#: app/classes/Tools.php:246
+msgid "This section is out of your reach!"
+msgstr "Táto sekcia je mimo dosahu!"
+
+#: app/classes/Tools.php:248
+msgid "An error occured!"
+msgstr "Vyskytla sa chyba!"
+
+#: app/classes/AbstractImport.php:61
+msgid "Could not open the file."
+msgstr "Súbor sa nepodarilo otvoriť."
+
+#: app/classes/MolViewer.php:80
+msgid "Stick"
+msgstr "Pero"
+
+#: app/classes/MolViewer.php:68
+msgid "Style"
+msgstr "Štýl"
+
+#: app/classes/Auth.php:166
+msgid "Password must contain at least %s characters."
+msgstr "Heslo musí obsahovať aspoň znaky %s ."
+
+#: app/controllers/EntityController.php:189
+msgid "Tag is too short!"
+msgstr "Tag je príliš krátky!"
+
+#: app/models/Comments.php:105
+msgid "[eLabFTW] New comment posted"
+msgstr "[eLabFTW] Zverejnil sa nový komentár"
+
+#: app/classes/Email.php:135
+msgid "[eLabFTW] Test email"
+msgstr "[eLabFTW] Testovací e-mail"
+
+#: app/classes/Email.php:141
+msgid "Congratulations, you correctly configured eLabFTW to send emails :)"
+msgstr "Blahoželáme, správne ste nakonfigurovali eLabFTW na odosielanie e-mailov :)"
+
+#: app/models/ItemsTypes.php:93 team.php:43
+msgid "Nothing to show with this id"
+msgstr "Nič sa nezobrazí s týmto identifikátorom"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:50
+msgid "Note: You need cookies enabled to log in."
+msgstr "Poznámka: Na prihlásenie musíte mať povolené súbory cookie."
+
+#: /tmp/elabftw-twig-cache/d4/d4f60ab74b9d44cb2d5207eb927c7fe04c597921a8a2fe8893776446597e2781.php:38
+msgid "Go back"
+msgstr "Návrat"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:37
+msgid "Scheduler"
+msgstr "Plánovač"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:57
+msgid "No bookable items."
+msgstr "Žiadne rezervovateľné položky."
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:84
+msgid "Select an equipment"
+msgstr "Vyberte zariadenie"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:64
+msgid "Change item"
+msgstr "Zmeniť položku"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:126
+msgid "You belong to the %s team. %s"
+msgstr "Patríte do tímu %s . %s"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:94
+msgid "Display"
+msgstr "Zobraziť"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:188
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové skratky"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:213
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:581
+msgid "Experiments Templates"
+msgstr "Šablóny experimentov"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:611
+msgid "Import from File"
+msgstr "Importuj zo súboru"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:618
+msgid "Name of the Template"
+msgstr "Meno šablóny"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:323
+msgid "or"
+msgstr "alebo"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:78
+msgid "Validate"
+msgstr "Validuj"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:100
+msgid "Groups"
+msgstr "Skupiny"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:130
+msgid "Configure your Team"
+msgstr "Nakonfigurujte tím"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:207
+msgid "Override general timestamping config"
+msgstr "Prepísať všeobecnú konfiguráciu časového označenia"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:22
+msgid "Edit Users"
+msgstr "Upraviť používateľov"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:107
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:413
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:150
+msgid "Group"
+msgstr "Skupina"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:144
+msgid "Reset user password"
+msgstr "Obnovenie hesla používateľa"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:150
+#: /tmp/elabftw-twig-cache/b6/b6f80890ca74198521cab291921b83d75b35a3346232aeda2c467a6e32a0154d.php:38
+msgid "characters minimum"
+msgstr "znakov minimálne"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:821
+msgid "Common Experiment Template"
+msgstr "Spoločná šablóna experimentu"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:850
+msgid "Import a CSV File"
+msgstr "Importovať súbor CSV"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:913
+msgid "Import a ZIP File"
+msgstr "Import súboru ZIP"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:929
+msgid "1. Select where to import:"
+msgstr "1. Vyberte miesto importovania:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:975
+msgid "2. Select a ZIP file to import:"
+msgstr "2. Vyberte súbor ZIP, ktorý chcete importovať:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:342
+msgid "Manage Groups of Users"
+msgstr "Správa skupín používateľov"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:349
+msgid "Create a group"
+msgstr "Vytvorte skupinu"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:365
+msgid "Add this user"
+msgstr "Pridať tohto používateľa"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:389
+msgid "to this group"
+msgstr "do tejto skupiny"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:412
+msgid "Add"
+msgstr "Pridať"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:421
+msgid "Remove this user"
+msgstr "Odstráňte tohto používateľa"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:445
+msgid "from this group"
+msgstr "z tejto skupiny"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:468
+msgid "Remove"
+msgstr "odstrániť"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:477
+msgid "Existing groups"
+msgstr "Existujúce skupiny"
+
+#: make.php:22
+msgid "Export"
+msgstr "Exportuj"
+
+#: sysconfig.php:22
+msgid "eLabFTW Configuration"
+msgstr "Konfigurácia eLabFTW"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:81
+msgid "Latest version:"
+msgstr "Najnovšia verzia:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:156
+msgid "Usage Statistics"
+msgstr "Štatistiky využitia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:342
+msgid "Under the Hood"
+msgstr "Pod kapotou"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:374
+msgid "Address of the Proxy:"
+msgstr "Adresa Proxy:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:459
+msgid "Informations"
+msgstr "informácie"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:465
+msgid "Operating System"
+msgstr "Operačný systém"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:471
+msgid "PHP Version"
+msgstr "PHP verzia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:477
+msgid "Largest integer supported"
+msgstr "Najväčšie celé číslo je podporované"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:483
+msgid "PHP configuration directory"
+msgstr "Konfiguračný adresár PHP"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:496
+msgid "Timestamping Configuration"
+msgstr "Časová konfigurácia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:586
+msgid "Security Settings"
+msgstr "Bezpečnostné nastavenia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:628
+msgid "Time of the ban after failed login attempts (in minutes):"
+msgstr "Čas zákazu po neúspešných pokusoch o prihlásenie (v minútach):"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:655
+msgid "E-mail Settings"
+msgstr "Nastavenie e-mailu"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:667
+msgid "Send e-mails via:"
+msgstr "Poslať e-maily cez:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:675
+msgid "Select mailing method..."
+msgstr "Vyberte spôsob odosielania emailov ..."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:682
+msgid "Local MTA (default)"
+msgstr "Miestne MTA (predvolené)"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:688
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:694
+msgid "PHP"
+msgstr "php"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:704
+msgid "Sender address:"
+msgstr "Adresa odosielateľa:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:716
+msgid "Path to sendmail:"
+msgstr "Cesta k odosielaniu:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:737
+msgid "SMTP encryption:"
+msgstr "Šifrovanie SMTP:"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:171
+msgid "My Profile"
+msgstr "Môj profil"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:183
+msgid "Help"
+msgstr "Pomocník"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:216
+msgid "You can make links inside the text by typing # and an autocomplete menu will spawn with a list of Experiments/Items."
+msgstr "Odkazy v texte môžete vytvoriť zadaním # a automaticky sa rozbalí ponuka experimentov / položiek."
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:112
+msgid "And visibility is:"
+msgstr "A viditeľnosť je:"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:117
+msgid "Select visibility"
+msgstr "Vyber viditeľnosť"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:378
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:123
+msgid "Organization"
+msgstr "Organizácia"
+
+#: /tmp/elabftw-twig-cache/23/234c500e977c822759125ce95a5eaaba3a327b7421f4483273baa541d463bc9d.php:369
+msgid "Tip: you can use '%' as wildcard."
+msgstr "Tip: môžete použiť '%' ako skratku."
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:90
+msgid "Memory usage:"
+msgstr "Využitie pamäte:"
+
+#: /tmp/elabftw-twig-cache/f7/f7ad4859145a8466beadad636c0218a5bdc831e2e397586d70f1fcfef3205a08.php:98
+msgid "bytes"
+msgstr "bajtov"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:40
+msgid "Number of login attempt left before being banned for %s minutes: %s"
+msgstr "Počet pokusov o prihlásenie pred tým, než bol zakázaný na %s minút: %s"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:129
+msgid "Login through your institution"
+msgstr "Prihlásanie sa cez váš inštitút"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:60
+msgid "API key"
+msgstr "API kľúč"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:73
+msgid "Generate an API Key"
+msgstr "Generuj API kľúč"
+
+#: /tmp/elabftw-twig-cache/dd/dd8efb2080c00c0690071d475be64863037535d9524d1a5ed48e28a9a5bc5eab.php:150
+msgid "Not enough tags to make a tagcloud"
+msgstr "Nedostatok tagov pre vytvorenie tagcloudu"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:113
+msgid "Duplicate"
+msgstr "Duplikát"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:129
+msgid "Make a PDF"
+msgstr "Vytvor PDF"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:142
+msgid "Make a ZIP"
+msgstr "Vytvor ZIP"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:156
+msgid "Show related"
+msgstr "Zobraziť súvisiace"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:208
+msgid "Timestamp Experiment"
+msgstr "pridaj časovú pečiatku k experimentu"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:301
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:482
+msgid "Next step"
+msgstr "Ďalší krok"
+
+#: /tmp/elabftw-twig-cache/03/03baf49ac42665cd035df7a623ee1817b5e0e22cb75171bb4f790c3dfb9598af.php:446
+msgid "On %s %s wrote:"
+msgstr "Na %s %s napísal:"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:328
+msgid "Experiments steps"
+msgstr "Kroky experimentu"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:377
+msgid "Add a step"
+msgstr "Pridaj krok"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:460
+msgid "Draw something"
+msgstr "Nakresli niečo"
+
+#: /tmp/elabftw-twig-cache/03/03b31609e9f56494343fa5e39b1af353f43e671303519d01da52be255645b988.php:467
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:878
+msgid "Clear"
+msgstr "Vymaž"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:237
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:547
+msgid "This should point to the chain of certificates used by your external timestamping provider to sign the timestamps.%sLocal path relative to eLabFTW installation directory. You should add it in the 'uploads' folder. The file needs to be in %sPEM-encoded (ASCII)%s format!"
+msgstr "Toto by malo poukázať na reťazec certifikátov používaných vaším externým poskytovateľom časových pečiatok na podpísanie časových značiek.%s Lokálna cesta vzhľadom na inštalačný adresár eLabFTW. Mali by ste ho pridať do priečinka \"Nahrávky\". Súbor musí mať formát %s PEM (ASCII) %s!"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:264
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:792
+msgid "A password is already set."
+msgstr "Heslo už je nastavené."
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:268
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:796
+msgid "%sClear it%s or change it below:"
+msgstr "%s Vymazať %s alebo ho zmeniť nižšie:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:489
+msgid "Remove this Group"
+msgstr "Zmaž túto skupinu"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:553
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:606
+msgid "Allow timestamp"
+msgstr "Povoľ časovú značku"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:783
+msgid "Modify ordering"
+msgstr "Uprav poradie"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:856
+msgid "This page will allow you to import a .csv (Excel spreadsheet) file into the database.<br>First you need to open your .xls/.xlsx file in Excel or Libreoffice and save it as .csv.<br>In order to have a good import, the first row should be the column's field names. You can make a tiny import of 3 lines to see if everything works before you import a big file. The third column should be the title."
+msgstr "Táto stránka vám umožní importovať súbor .csv (tabuľkový procesor Excel) do databázy. <br> Najprv musíte otvoriť súbor .xls / .xlsx v programe Excel alebo Libreoffice a uložiť ho ako .csv. aby bol dobrý import, prvý riadok by mal byť názvy polí v stĺpci. Môžete urobiť malý import 3 riadkov, aby ste zistili, či všetko funguje pred importom veľkého súboru. Tretí stĺpec by mal byť názov."
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:110
+msgid "Order by:"
+msgstr "Zoradiť podľa:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:117
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:155
+msgid "Use default"
+msgstr "Použi prednastavené"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:141
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:214
+msgid "Comment"
+msgstr "Poznámka"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:148
+msgid "Sort:"
+msgstr "Zoradenie:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:174
+msgid "Use single column layout:"
+msgstr "Použiť rozloženie do jedného stĺpca:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:192
+msgid "Only lowercase letters are allowed."
+msgstr "Sú povolené iba malé písmená."
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:361
+msgid "Disable the rich text editor and write Markdown directly"
+msgstr "Zruš RTF editor a píš Markdown priamo"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:368
+msgid "Default visibility for new experiments"
+msgstr "Predvolená viditeľnosť nových experimentov"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:396
+msgid "User"
+msgstr "Používateľ"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:734
+msgid "Template content"
+msgstr "Obsah šablóny"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:37
+msgid "Error getting latest version information from server! Check the proxy setting."
+msgstr "Chyba pri získavaní najnovšej verzie zo servera! Skontrolujte nastavenie servera proxy."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:92
+msgid "%s - A new version is available! %sUpdate elabftw%sRead changelog%s"
+msgstr "% s - k dispozícii je nová verzia! %s Inovujte elabftw %s Informácie o zmenách %s"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:106
+msgid "Please finalize install: %slink to documentation%s."
+msgstr "Prosím dokončite inštaláciu: %s informácia v dokumentácii %s."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:145
+msgid "SAML"
+msgstr "SAML"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:267
+msgid "Archive"
+msgstr "Archivácia"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:382
+msgid "If you are behind a firewall/proxy, enter the address here. Example: http://proxy.example.com:3128"
+msgstr "Ak ste za bránou firewall / proxy, zadajte tu adresu. Príklad: http://proxy.example.com:3128"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:408
+msgid "Enable local account creation:"
+msgstr "Povoliť vytvorenie lokálneho účtu:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:427
+msgid "Show local login form:"
+msgstr "Zobraziť lokálny prihlasovací formulár:"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:445
+msgid "You can still show the local login form by appending ?letmein to the login page URL."
+msgstr "Stále môžete zobraziť prihlasovací formulár pridaním ?letmein na adresu URL prihlasovacej stránky."
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:662
+msgid "Without a valid way to send emails users won't be able to reset their password. It is recommended to create a specific smtp2go.com account and add the infos here."
+msgstr "Bez platného spôsobu odosielania e-mailov nebudú používatelia môcť obnoviť svoje heslo. Odporúčame vytvoriť konkrétny účet smtp2go.com a pridať informácie tu."
+
+#: /tmp/elabftw-twig-cache/23/23bc02dcbfc1c4bba092b42ca4c10350a9d88370311a55f5907bd996d5b9feec.php:41
+msgid "Back to listing"
+msgstr "Späť na zoznam"
+
+#: /tmp/elabftw-twig-cache/23/23bc02dcbfc1c4bba092b42ca4c10350a9d88370311a55f5907bd996d5b9feec.php:50
+msgid "Experiment of %s"
+msgstr "Experiment %s"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:95
+msgid "Manage templates"
+msgstr "Správa šablón"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:283
+msgid "Welcome to eLabFTW. Use the 'Create new' button to get started!"
+msgstr "Vitajte v eLabFTW. Pomocou tlačidla \"Vytvoriť nové\" môžete začať!"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:299
+msgid "Select all"
+msgstr "Vyber všetko"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:303
+msgid "Clear selection"
+msgstr "Zruš výber"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:307
+msgid "Invert selection"
+msgstr "Invertuj výber"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:313
+msgid "With selected:"
+msgstr "S vybranými:"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:326
+msgid "Change status"
+msgstr "Zmeň stav"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:332
+msgid "Change item type"
+msgstr "Zmeň typ položky"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:393
+msgid "Make Zip"
+msgstr "Vytvor Zip"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:397
+msgid "Make Csv"
+msgstr "Vytvor Csv"
+
+#: app/controllers/EntityController.php:296
+msgid "Please make sure to remove any reference to this file in the body!"
+msgstr "Uistite sa, že ste odstránili akýkoľvek odkaz na tento súbor v tele!"
+
+#: app/controllers/ExperimentsController.php:110
+msgid "Step deleted successfully"
+msgstr "Krok bol úspešne odstránený"
+
+#: app/controllers/ExperimentsController.php:177
+msgid "This experiment cannot be timestamped!"
+msgstr "Tento experiment nemôže byť časovo označený!"
+
+#: app/controllers/RevisionsController.php:43
+msgid "Revision restored successfully."
+msgstr "Revízia bola úspešne obnovená."
+
+#: app/views/ExperimentsView.php:82
+msgid "Decode token"
+msgstr "Dekóduj token"
+
+#: app/views/UploadsView.php:144
+msgid "Insert in text at cursor position"
+msgstr "Vlož do textu na pozíciu kurzora"
+
+#: app/classes/Email.php:205
+msgid "Hi. A new user registered on elabftw. Head to the admin panel to validate the account: "
+msgstr "Ahoj. Nový užívateľ registrovaný v elabftw. Prejdite do administrátorského panelu a overte účet: ␣"
+
+#: app/models/Users.php:716
+msgid "User %s (%s) now has an active account."
+msgstr "Používateľ %s (%s) má teraz aktívny účet."
+
+#: app/models/Experiments.php:347
+msgid "You don't have the rights to unlock this."
+msgstr "Nemáte právo odomknúť toto."
+
+#: app/models/Comments.php:112
+msgid "Hi. %s left a comment on your experiment. Have a look: %s"
+msgstr "Ahoj. %s zanechal komentár k vášmu experimentu. Pozrite sa: %s"
+
+#: register.php:35
+msgid "No local account creation is allowed!"
+msgstr "Nie je povolené vytváranie lokálnych účtov!"
+
+#: /tmp/elabftw-twig-cache/99/99bd58b19e73f0c998137bb256fbed258081f972c9048b10043ee1440d27f560.php:265
+msgid "Anonymous"
+msgstr "Anonymne"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:202
+msgid "User is archived"
+msgstr "Užívateľ je zálohovaný"
+
+#: /tmp/elabftw-twig-cache/37/37cbaec17486de4d272e23294901b1caad24dc4d7cd152cbdb499d9b0e02ffd1.php:210
+msgid "Archive user"
+msgstr "Zálohuj užívateľa"
+
+#: /tmp/elabftw-twig-cache/c8/c8a0fa51f182bdfa815db1edf791be008c407f21e6912d3b26c2477524f68155.php:163
+msgid "Login as anonymous visitor"
+msgstr "Prihlás sa ako anonymný užívateľ"
+
+#: /tmp/elabftw-twig-cache/6f/6fc30687fe289883d969673cf6a065579be4449ac0438d6cd7eb953e7e5eaff7.php:254
+msgid "Import to your profile"
+msgstr "Importuj do svojho profilu"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:164
+msgid "Anonymous visitors can see database items:"
+msgstr "Anonymný užívateľ môže vidieť položky databázy:"
+
+#: /tmp/elabftw-twig-cache/04/04b25c6b7cffaf0c5b8c3a109ee67240e7a30a467de7d89e4019ee27873c6e13.php:318
+msgid "Type EMAIL ADDRESS of a member to delete this user and all their experiments/files forever:"
+msgstr "Vyplňte EMAIL ADRESU člena pre vymazanie užívateľa a všetkých jeho experimentov a súborov natrvalo:"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:252
+msgid "PDF configuration"
+msgstr "konfigurácia PDF"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:258
+msgid "Select paper format for PDF"
+msgstr "Vyber formát papiera pre PDF"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:284
+msgid "Enable Chinese, Japonese and Korean fonts in PDF generation (WARNING: this will dramatically increase the file size unless you disable PDF/A)"
+msgstr "Povoliť čínske, japonské a kórejské písma vo vytváraní PDF (UPOZORNENIE: dramaticky zväčší veľkosť súboru, ak nezakážete formát PDF / A)"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:295
+msgid "Generate PDF/A compliant pdfs (will embed the fonts and make the file bigger)"
+msgstr "Vytvorte PDF / A kompatibilné súbory PDF (vloží fonty a zväčší súbor)"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:306
+msgid "Add attached files summary to the pdf"
+msgstr "Pridajte súhrn pripojených súborov do súboru PDF"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:328
+msgid "Show experiments from the team on the Experiments page"
+msgstr "Zobraziť experimenty od tímu na stránke Experimenty"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:339
+msgid "Display a warning before closing an edit window/tab"
+msgstr "Pred uzatvorením okna / karty úprav zobraz varovanie"
+
+#: /tmp/elabftw-twig-cache/ff/ff71ac32c99a1ec35048bbb6a9cebc5fbfd1bb35a04a947ee0a85e68883138b2.php:350
+msgid "Display the molecule drawer in edit mode"
+msgstr "Zobrazte zásuvku molekúl v režime úprav"
+
+#: /tmp/elabftw-twig-cache/1a/1a99745b779d83c26cb63c8f29e8b48f5477cc383b4dbcf9b926325cb9f8cd63.php:389
+msgid "Allow anonymous visitors to login and see Public experiments:"
+msgstr "Povoliť anonymným návštevníkom prihlásenie a zobrazenie verejných experimentov:"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:295
+msgid "result shown"
+msgid_plural "results shown"
+msgstr[0] "výsledok ukázaný"
+msgstr[1] "výsledkov ukázaných"
+msgstr[2] "výsledkov ukázaných"
+msgstr[3] "výsledkov ukázaných"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:365
+msgid "Change visibility"
+msgstr "Zmeť viditeľnosť"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:620
+msgid "Previous page"
+msgstr "Predchádzajúca strana"
+
+#: /tmp/elabftw-twig-cache/15/158cee9e6bf024cb62f32960312406882372f0dc8b07b1c85144f9d4c82ed963.php:629
+msgid "Next page"
+msgstr "Ďalšia strana"
+
+#: app/controllers/EntityController.php:279
+msgid "File replaced successfully"
+msgstr "Súbor úspešne zamenený"
+
+#: app/views/UploadsView.php:149
+msgid "Upload a new version of this file"
+msgstr "Nahrajte novú verziu tohto súboru"
+
+#: app/classes/MolViewer.php:76
+msgid "Cartoon (proteins only)"
+msgstr "Obrázok (iba proteiny)"
+
+#: app/classes/MolViewer.php:77
+msgid "Cross"
+msgstr "Kríž"
+
+#: app/classes/MolViewer.php:78
+msgid "Line"
+msgstr "čiara"
+
+#: app/classes/MolViewer.php:79
+msgid "Sphere"
+msgstr "kruh"
+
