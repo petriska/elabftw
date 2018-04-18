@@ -268,6 +268,7 @@ class Tools
             'pt_PT' => 'pt',
             'ru_RU' => 'ru',
             'sl_SI' => 'sl',
+            'sk_SK' => 'sk',
             'zh_CN' => 'zh-cn'
         );
         return $map[$lang];
@@ -292,6 +293,7 @@ class Tools
             'pt_PT' => 'Portuguese',
             'ru_RU' => 'Russian',
             'sl_SI' => 'Slovenian',
+            'sk_SK' => 'Slovak',
             'zh_CN' => 'Chinese Simplified'
         );
 

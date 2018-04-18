@@ -193,7 +193,7 @@ define(
   ],
   function () {
     var getLanguages = function (editor) {
-      var defaultLanguages = 'English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr_FR,German=de,Italian=it,Polish=pl,Portuguese=pt_BR,Spanish=es,Swedish=sv';
+      var defaultLanguages = 'English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr_FR,German=de,Italian=it,Polish=pl,Portuguese=pt_BR,Spanish=es,Slovak=sk_SK,Swedish=sv';
       return editor.getParam('spellchecker_languages', defaultLanguages);
     };
 
